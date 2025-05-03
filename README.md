@@ -32,8 +32,3 @@ Welcome to this collection of projects exploring **Text Analytics and Natural La
 - ⚙️ Feature Engineering & Vectorization  
 - 🤖 Model Application (Pretrained or Custom)  
 - 📊 Result Evaluation & Interpretation  
-
----
-
-## 📁 Repository Structure
-
