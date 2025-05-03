@@ -8,7 +8,7 @@ Welcome to this collection of projects exploring **Text Analytics and Natural La
 
 1. **📊 Sentiment Analysis**
    - Perform sentiment classification on textual data using pretrained models (VADER & TextBlob).
-   - Pipeline: Data acquisition → Cleaning → Tokenization → Vectorization → Model application → Evaluation.
+   - Spot check texts and sentiment labels for both models to determine which model is a better fit.
 
 2. **📑 Text Classification**
    - Categorize texts into predefined classes using supervised machine learning models.
